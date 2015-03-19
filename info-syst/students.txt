@@ -1,0 +1,10 @@
+   | Miller                |       1987 |            97 |
+   | Davis                 |       1988 |            77 |
+   | Wilson                |       1985 |            89 |
+   | Thompson              |       1988 |            83 |
+   | Williams              |       1985 |            73 |
+   | Wright                |       1987 |            93 |
+   | Turner                |       1988 |            75 |
+   | Stewart               |       1985 |            81 |
+   | Russell               |       1985 |            65 |
+   | Williams              |       1985 |            85 |
